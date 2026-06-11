@@ -1,0 +1,12 @@
+[package]
+name = "simulation-of-balls"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+README = "README.md"
+authors = ["coF2b"]
+description = "A simple simulation of balls using macroquad and rapier2d."
+
+[dependencies]
+macroquad = "0.4"
+rapier2d = "0.18.0"
